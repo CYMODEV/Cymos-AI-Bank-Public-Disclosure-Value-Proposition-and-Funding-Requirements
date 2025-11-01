@@ -14,7 +14,7 @@ Problem Statement
 Solution (Value Proposition)
 
 • Trustable offline value — Ring Mint notes are cryptographically signed and visually deterministic so merchants and humans can verify authenticity offline while the ledger preserves provable linkage to reserves.
-• AI-driven friction reduction — AI Copilot handles conversational issuance, automated KYC/AML triage, anomaly detection (Fraud Sentinel), and settlement orchestration to reduce operational cost and disputes.
+• AI-driven friction reduction — AI handles conversational issuance, automated KYC/AML triage, anomaly detection (Fraud Sentinel), and settlement orchestration to reduce operational cost and disputes.
 • Composability & developer-first — REST/gRPC APIs, mobile SDKs, and webhooks let developers integrate issuance, verification, and redemption into apps, games, payroll systems, and merchant portals.
 • Regulated rails & custody — Custodial bank/trust integrations and HSM/MPC key management deliver auditability and regulatory alignment.
 • Network effects — Payroll, event, and creator use-cases create recurring issuance volumes and merchant acceptance networks.
