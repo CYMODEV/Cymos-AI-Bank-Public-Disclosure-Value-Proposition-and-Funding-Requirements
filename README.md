@@ -28,6 +28,7 @@ Key Features (Concise)
 • AI Orchestrator: Fraud Sentinel, Compliance , User AI, Developer Hub.
 • Proof-of-reserve reporting, HSM/MPC custody, and audit-ready logs.
 • Developer platform: /issueToken, /verifyToken, /redeemToken, webhooks, SDKs (iOS/Android/JS/Unity).
+• hybrid on-chain/off-chain revocation system
 
 
 Technology & Security Highlights
